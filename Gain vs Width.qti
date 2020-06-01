@@ -1,0 +1,436 @@
+QtiPlot 0.9.8 project file
+<scripting-lang>	muParser
+<windows>	6
+<table>
+NoBuiltInVoltage	21	6	29/01/2018 18:46
+geometry	0	0	791	430	
+header	1[X]	2[X]	3[Y]	4[Y]	5[Y]	6[Y]
+ColWidth	100	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0
+Comments							
+WindowLabel	0.2	1
+<data>
+0	100000	0	1	1	1	1
+1	100000	0.45	1	1	1	1
+2	100000	0.9	1	1	1	1
+3	100000	1.35	1	1	1	1
+4	100000	1.8	1	1	1	1
+5	100000	2.25	1	1	1	1
+6	100000	2.7	1.05916	1.05207617917	1	1
+7	100000	3.15	1.20123	1.142108865786	1	1
+8	100000	3.6	1.35006	1.200420042596	1	1
+9	100000	4.05	1.48693	1.236362928377	1	1
+10	100000	4.5	1.64051	1.271617529539	1	1
+11	100000	4.95	1.77909	1.298022345126	1	1
+12	100000	5.4	1.92367	1.318876295662	1	1
+13	100000	5.85	2.069	1.344298361903	1	1
+14	100000	6.3	2.31592	1.406469743488	1	1
+15	100000	6.75	2.64987	1.498136303395	1	1
+16	100000	7.2	3.1505	1.645399504179	1	1
+17	100000	7.65	3.81713	1.8335269233	1	1
+18	100000	8.1	5.01374	2.161074415649	1	1
+19	100000	8.55	6.80565	2.658809735814	1	1
+20	100000	9	11.3485	4.125050893295	1	1
+</data>
+</table>
+<table>
+zeropointfive	30	6	30/01/2018 00:13
+geometry	433	18	445	220	
+header	1[X]	2[X]	3[Y]	4[Y]	5[Y]	6[Y]
+ColWidth	100	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0
+Comments							
+WindowLabel	0.5	1
+<data>
+0	100000	18	3.81214	1.811091037303	1	1
+1	100000	18.2	4.15606	1.897871456803	1	1
+2	100000	18.4	4.59334	2.019130747609	1	1
+3	100000	18.6	5.14049	2.161233437146	1	1
+4	100000	18.8	5.82838	2.349775933343	1	1
+5	100000	19	6.70332	2.559908811772	1	1
+6	100000	19.2	7.89157	2.879003226401	1	1
+7	100000	19.4	9.61696	3.302406908896	1	1
+8	100000	19.6	12.43778	3.933664296363	1	1
+9	100000	13	1.32585	1.171110702465	1	1
+10	100000	14	1.50396	1.215422984519	1	1
+11	100000	15	1.74785	1.273569869777	1	1
+12	100000	16	2.11393	1.363700838895	1	1
+13	100000	17	2.70463	1.511646557989	1	1
+14	100000	18	3.81214	1.811091037303	1	1
+</data>
+</table>
+<table>
+zeeropointone	16	6	30/01/2018 00:32
+geometry	791	220	445	220	
+header	1[X]	2[X]	3[Y]	4[Y]	5[Y]	6[Y]
+ColWidth	100	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0
+Comments							
+WindowLabel	0.1	2
+<data>
+0	100000	5	1.52627	1.10702291265	1	1
+1	100000	5.2	1.59742	1.094252682172	1	1
+2	100000	5.4	1.66068	1.081288424758	1	1
+3	100000	5.6	1.72413	1.067201814234	1	1
+4	100000	5.8	1.77484	1.0553840686	1	1
+5	100000	6	1.82204	1.044565609993	1	1
+6	100000	6.2	1.86884	1.040055700235	1	1
+7	100000	6.4	1.92649	1.042805365327	1	1
+8	100000	6.6	2.00929	1.058233676667	1	1
+9	100000	6.8	2.10113	1.080689267303	1	1
+10	100000	7	2.2352	1.115898151218	1	1
+11	100000	7.2	2.38524	1.153821981046	1	1
+12	100000	7.4	2.58775	1.193672755773	1	1
+13	100000	7.6	2.79198	1.230354405635	1	1
+14	100000	7.8	3.04533	1.265521452296	1	1
+15	100000	8	3.29767	1.30293475272	1	1
+</data>
+</table>
+<table>
+zeropointthree	30	6	30/01/2018 01:24
+geometry	212	242	445	220	
+header	1[X]	2[X]	3[Y]	4[Y]	5[Y]	6[Y]
+ColWidth	100	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0
+Comments							
+WindowLabel	0.3	2
+<data>
+0	100000	10	1.59833	1.187544110854	1	1
+1	100000	10.5	1.75954	1.210401480487	1	1
+2	100000	11	1.95676	1.240400107367	1	1
+3	100000	11.5	2.20719	1.278363965117	1	1
+4	100000	12	2.53709	1.337552148207	1	1
+5	100000	12.5	3.00001	1.422344962129	1	1
+6	100000	13	3.67802	1.546472587794	1	1
+7	100000	13.5	4.73383	1.742630851835	1	1
+8	100000	14	6.82017	2.10695909741	1	1
+9	100000	14.5	12.11835	3.089573136592	1	1
+</data>
+</table>
+<multiLayer>
+Graph1	1	1	30/01/2018 09:54
+geometry	142	-44	455	418	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	5	5	443	360
+<PageGeometry>0.0110375	0.0133333	0.977925	0.96</PageGeometry>
+PlotTitle	Title	#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	0	1	0	
+AxesTitles	%(?X)	%(?Y)		%(?Y)	
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	4	5124	4
+AxesTitleDistance	2	-1	2	-1
+TitleFont	Lucida Grande	11	75	0	0	0
+ScaleFont0	Lucida Grande	9	75	0	0	0
+ScaleFont1	Lucida Grande	9	75	0	0	0
+ScaleFont2	Lucida Grande	9	75	0	0	0
+ScaleFont3	Lucida Grande	9	75	0	0	0
+AxisFont0	Lucida Grande	9	50	0	0	0
+AxisFont1	Lucida Grande	9	50	0	0	0
+AxisFont2	Lucida Grande	9	50	0	0	0
+AxisFont3	Lucida Grande	9	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#000000	#000000	#000000	#000000
+AxesBaseline	0	0	0	0	
+CanvasFrame	1	#000000
+CanvasBackground	#ffffff	0
+curve	NoBuiltInVoltage_2	NoBuiltInVoltage_3	1	0	#000000	0	1	7	1	#000000	#000000	0	#000000	14	1	2	0	0	20	1
+curve	zeropointfive_2	zeropointfive_3	1	0	#ff0000	0	1	7	2	#ff0000	#ff0000	0	#000000	14	1	2	0	0	29	1
+curve	zeropointthree_2	zeropointthree_3	1	0	#00ff00	0	1	7	3	#00ff00	#00ff00	0	#000000	14	1	2	0	0	29	1
+curve	zeeropointone_2	zeeropointone_3	2	1	#0000ff	0	1	7	4	#0000ff	#0000ff	0	#000000	14	1	2	0	0	15	1
+curve	Table1_2	Table1_3	2	1	#00ffff	0	1	7	5	#00ffff	#00ffff	0	#000000	14	1	2	0	0	29	1
+scale	0	0	14	0	8	5	0	0
+scale	1	0	14	0	8	5	0	0
+scale	2	-5	35	0	9	5	0	0
+scale	3	-5	35	0	9	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1
+MinorTicks	1	1	1	1
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	1	1	1
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>-1.7254408060453</x>
+<y>11.643097643098</y>
+<right>3.81612090680101</right>
+<bottom>9.05050505050505</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1) 0.2
+\l(2) 0.5
+\l(3) 0.3
+\l(4) 0.1
+\l(5)%(5)
+</Text>
+<Font>Lucida Grande	9	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>0</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<table>
+Table1	30	6	30/01/2018 10:49
+geometry	563	227	445	220	
+header	1[X]	2[X]	3[Y]	4[Y]	5[Y]	6[Y]
+ColWidth	100	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0	0
+HiddenColumn	0	0	0	0	0	0
+Comments							
+WindowLabel		2
+<data>
+0	100000	20	1.12815	1.098817758905	1	1
+1	100000	21	1.18598	1.13054041984	1	1
+2	100000	22	1.26134	1.165483938708	1	1
+3	100000	23	1.35582	1.202394972509	1	1
+4	100000	24	1.47649	1.243156768511	1	1
+5	100000	25	1.6345	1.300401511796	1	1
+6	100000	26	1.84103	1.370673778344	1	1
+7	100000	27	2.12307	1.476059655341	1	1
+8	100000	28	2.53982	1.627042549909	1	1
+9	100000	29	3.18922	1.862321176292	1	1
+10	100000	30	4.38671	2.318362481937	1	1
+11	100000	31	6.97516	3.286003531424	1	1
+</data>
+</table>
+<open>1</open>
+<log>
+[30/01/2018 10:23	Plot: ''Graph1'']
+Linear Regression of dataset: NoBuiltInVoltage_3, using function: A*x
+Weighting Method: No weighting
+From x = 0.0000000000000e+00 to x = 9.0000000000000e+00
+A (slope) = 5.9922366240805e-01 +/- 6.8712019422573e-02
+--------------------------------------------------------------------------------------
+Chi^2/doF = 2.7439257120097e+00
+R^2 = 0.5668518409985
+Adjusted R^2 = 0.5440545694722
+RMSE (Root Mean Squared Error) = 1.656479915969
+RSS (Residual Sum of Squares) = 54.87851424019
+---------------------------------------------------------------------------------------
+[30/01/2018 10:23	Plot: ''Graph1'']
+Exponential growth of dataset: NoBuiltInVoltage_3, using function: y0+A*exp(x/t)
+Weighting Method: No weighting
+Scaled Levenberg-Marquardt algorithm with tolerance = 0.0001
+From x = 0.0000000000000e+00 to x = 9.0000000000000e+00
+A (amplitude) = 1.7458713954905e-03 +/- 9.3531971437638e-04
+t (lifetime) = 1.0445401046654e+00 +/- 6.6194001678105e-02
+y0 (offset) = 1.2418121881227e+00 +/- 9.6560049557434e-02
+--------------------------------------------------------------------------------------
+Chi^2/doF = 1.0810920777101e-01
+R^2 = -0.2849343435627
+Adjusted R^2 = -0.511687463015
+RMSE (Root Mean Squared Error) = 3.007372000499
+RSS (Residual Sum of Squares) = 162.7971542889
+---------------------------------------------------------------------------------------
+Iterations = 7
+Status = success
+---------------------------------------------------------------------------------------
+[30/01/2018 10:25	Plot: ''Graph1'']
+Non-linear Fit of dataset: NoBuiltInVoltage_3, using function: A*exp(x/t)
+Weighting Method: No weighting
+Scaled Levenberg-Marquardt algorithm with tolerance = 0.0001
+From x = 0.0000000000000e+00 to x = 9.0000000000000e+00
+A = 1.0438406292209e-01 +/- 4.6640897812838e-02
+t = 1.9936295065370e+00 +/- 2.1471842740632e-01
+--------------------------------------------------------------------------------------
+Chi^2/doF = 7.0812308529099e-01
+R^2 = 0.8938068552921
+Adjusted R^2 = 0.8820076169912
+RMSE (Root Mean Squared Error) = 0.8415004963106
+RSS (Residual Sum of Squares) = 13.45433862053
+---------------------------------------------------------------------------------------
+Iterations = 14
+Status = success
+---------------------------------------------------------------------------------------
+[30/01/2018 10:25	Plot: ''Graph1'']
+Non-linear Fit of dataset: NoBuiltInVoltage_3, using function: A*exp(x/t)
+Weighting Method: No weighting
+Scaled Levenberg-Marquardt algorithm with tolerance = 0.0001
+From x = 0.0000000000000e+00 to x = 9.0000000000000e+00
+t = 4.6947268940661e+00 +/- 2.6063037786885e-01
+--------------------------------------------------------------------------------------
+Chi^2/doF = 1.9456004164733e+00
+R^2 = 0.6928731580234
+Adjusted R^2 = 0.6767085873931
+RMSE (Root Mean Squared Error) = 1.394847811223
+RSS (Residual Sum of Squares) = 38.91200832947
+---------------------------------------------------------------------------------------
+Iterations = 8
+Status = success
+---------------------------------------------------------------------------------------
+A = 1 (constant)
+---------------------------------------------------------------------------------------
+[30/01/2018 10:26	Plot: ''Graph1'']
+Non-linear Fit of dataset: NoBuiltInVoltage_3, using function: A*exp(x/t)
+Weighting Method: Direct Weighting using Dataset: NoBuiltInVoltage_1
+Scaled Levenberg-Marquardt algorithm with tolerance = 0.0001
+From x = 0.0000000000000e+00 to x = 9.0000000000000e+00
+t = 4.6947530423741e+00 +/- 2.6063571546014e-01
+--------------------------------------------------------------------------------------
+Chi^2/doF = 1.9456004154378e+05
+R^2 = 0.6928731581869
+Adjusted R^2 = 0.6767085875651
+RMSE (Root Mean Squared Error) = 441.0896071591
+RSS (Residual Sum of Squares) = 3891200.830876
+---------------------------------------------------------------------------------------
+Iterations = 1
+Status = success
+---------------------------------------------------------------------------------------
+A = 1 (constant)
+---------------------------------------------------------------------------------------
+[30/01/2018 10:26	Plot: ''Graph1'']
+Non-linear Fit of dataset: NoBuiltInVoltage_3, using function: A*exp(x/t)
+Weighting Method: No weighting
+Scaled Levenberg-Marquardt algorithm with tolerance = 0.0001
+From x = 0.0000000000000e+00 to x = 9.0000000000000e+00
+A = 2.5529028573780e+00 +/- 5.9957795342738e-01
+t = -3.5093349479534e+10 +/- 1.6316276592529e+19
+--------------------------------------------------------------------------------------
+Chi^2/doF = 6.6682561037788e+00
+R^2 = -1.228785961871e-10
+Adjusted R^2 = -0.1111111112476
+RMSE (Root Mean Squared Error) = 2.582296672301
+RSS (Residual Sum of Squares) = 126.6968659718
+---------------------------------------------------------------------------------------
+Iterations = 63
+Status = the iteration has not converged yet
+---------------------------------------------------------------------------------------
+[30/01/2018 10:26	Plot: ''Graph1'']
+Non-linear Fit of dataset: NoBuiltInVoltage_3, using function: A*exp(x/t)
+Weighting Method: No weighting
+Scaled Levenberg-Marquardt algorithm with tolerance = 0.0001
+From x = 0.0000000000000e+00 to x = 9.0000000000000e+00
+t = -3.5444282974325e+12 +/- 1.1132920365286e+22
+--------------------------------------------------------------------------------------
+Chi^2/doF = 8.8669259457272e+00
+R^2 = -0.3997072269792
+Adjusted R^2 = -0.4733760283991
+RMSE (Root Mean Squared Error) = 2.977738394441
+RSS (Residual Sum of Squares) = 177.3385189145
+---------------------------------------------------------------------------------------
+Iterations = 2
+Status = cannot reach the specified tolerance in F
+---------------------------------------------------------------------------------------
+A = 1 (constant)
+---------------------------------------------------------------------------------------
+[30/01/2018 10:26	Plot: ''Graph1'']
+Non-linear Fit of dataset: NoBuiltInVoltage_3, using function: A*exp(x/t)
+Weighting Method: No weighting
+Scaled Levenberg-Marquardt algorithm with tolerance = 0.0001
+From x = 0.0000000000000e+00 to x = 9.0000000000000e+00
+A = 2.5529028309313e+00 +/- 1.3632164729468e+15
+t = 5.7273615864137e+22 +/- 1.0548736812752e+47
+--------------------------------------------------------------------------------------
+Chi^2/doF = 6.6682561029594e+00
+R^2 = -6.661338147751e-16
+Adjusted R^2 = -0.1111111111111
+RMSE (Root Mean Squared Error) = 2.582296672143
+RSS (Residual Sum of Squares) = 126.6968659562
+---------------------------------------------------------------------------------------
+Iterations = 3
+Status = cannot reach the specified tolerance in F
+---------------------------------------------------------------------------------------
+[30/01/2018 10:26	Plot: ''Graph1'']
+Non-linear Fit of dataset: NoBuiltInVoltage_3, using function: A*exp(x/t)
+Weighting Method: No weighting
+Scaled Levenberg-Marquardt algorithm with tolerance = 0.0001
+From x = 0.0000000000000e+00 to x = 9.0000000000000e+00
+A = 2.5529028571429e+00 +/- 5.4528658869082e+14
+t = 5.7273615864140e+22 +/- 8.4389894502013e+46
+--------------------------------------------------------------------------------------
+Chi^2/doF = 6.6682561029594e+00
+R^2 = 0
+Adjusted R^2 = -0.1111111111111
+RMSE (Root Mean Squared Error) = 2.582296672143
+RSS (Residual Sum of Squares) = 126.6968659562
+---------------------------------------------------------------------------------------
+Iterations = 2
+Status = success
+---------------------------------------------------------------------------------------
+[30/01/2018 10:27	Plot: ''Graph1'']
+Non-linear Fit of dataset: NoBuiltInVoltage_3, using function: A*exp(x/t)
+Weighting Method: No weighting
+Nelder-Mead Simplex algorithm with tolerance = 0.0001
+From x = 0.0000000000000e+00 to x = 9.0000000000000e+00
+A = 2.5529028571430e+00 +/- 2.7264329458256e+15
+t = 5.7273615864140e+22 +/- 4.2194947251006e+47
+--------------------------------------------------------------------------------------
+Chi^2/doF = 6.6682561029594e+00
+R^2 = -4.440892098501e-16
+Adjusted R^2 = -0.1111111111111
+RMSE (Root Mean Squared Error) = 2.582296672143
+RSS (Residual Sum of Squares) = 126.6968659562
+---------------------------------------------------------------------------------------
+Iterations = 16
+Status = success
+---------------------------------------------------------------------------------------
+[30/01/2018 10:27	Plot: ''Graph1'']
+Non-linear Fit of dataset: NoBuiltInVoltage_3, using function: A*exp(x/t)
+Weighting Method: No weighting
+Nelder-Mead Simplex algorithm with tolerance = 0.0001
+From x = 0.0000000000000e+00 to x = 9.0000000000000e+00
+A = 2.5529028571430e+00 +/- 2.7264329458256e+15
+t = 5.7273615864140e+22 +/- 4.2194947251006e+47
+--------------------------------------------------------------------------------------
+Chi^2/doF = 6.6682561029594e+00
+R^2 = -4.440892098501e-16
+Adjusted R^2 = -0.1111111111111
+RMSE (Root Mean Squared Error) = 2.582296672143
+RSS (Residual Sum of Squares) = 126.6968659562
+---------------------------------------------------------------------------------------
+Iterations = 16
+Status = success
+---------------------------------------------------------------------------------------
+</log>
